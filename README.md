@@ -1,2 +1,4 @@
 # 6.7920-Final-Project
-LLM alignment using implicit human signals
+LLM alignment using implicit human signals:
+
+Traditionally, LLM alignment approaches such as RLHF (Reinforcement Learning from Human Feedback) depend on explicit human ratings. Examples of explicit human ratings are a user rating a response with 1-5 stars or choosing the best out of two different answers. These however can be expensive and slow to collect and might not generalize well to real-world varied user-interaction. However, we can also look at implicit feedback signals like sentiment, tone, or re-engagement, that reflect user satisfaction. Think of the user saying “That’s not what I asked for.” (negative signal) or “Thanks, that’s perfect!” (positive signal) or the user reformulating the question (negative signal). The goal of this project is to explore whether implicit human signals, derived automatically from interaction data, can serve as effective reward functions for aligning a language model’s behavior through reinforcement learning.

@@ -1,0 +1,49 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+
+# Model files
+*.pt
+*.bin
+*.safetensors
+*.h5
+*.ckpt
+*.onnx
+models/
+checkpoints/
+
+# HuggingFace cache
+~/.cache/huggingface/
+huggingface/
+
+# Data files (large or private)
+data/
+*.jsonl
+*.csv
+*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+wandb/
+tensorboard/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# VSCode
+.vscode/
