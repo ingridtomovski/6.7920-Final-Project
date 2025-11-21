@@ -26,12 +26,6 @@ checkpoints/
 ~/.cache/huggingface/
 huggingface/
 
-# Data files (large or private)
-data/
-*.jsonl
-*.csv
-*.parquet
-
 # Jupyter
 .ipynb_checkpoints/
 
