@@ -1,0 +1,52 @@
+[
+  {
+    "prompt": "What is Terraform?",
+    "response": "Use a minimum of three external resources.\n\nTerraform helps you build infrastructure as code by providing an easy-to-use language to define infrastructure changes programmatically instead of manually editing files on your local machine.\n\n## Why should we use it? \n\nAns - Terraform can help us automate our deployments so that they are more reliable. For example:\n\n1) If I wanted to deploy two instances (a web server & database), then using terraform would make my deployment much easier because:\n   * It's faster.\n   * More flexible\n   * Less error prone\n\n2) Using terraform could also save me time during maintenance since if something goes wrong with one instance, just delete its configuration from AWS console and recreate another similar instance without needing to find out what was changed between them.",
+    "score": 1.661417007446289
+  },
+  {
+    "prompt": "What is the best tv series in the world",
+    "response": "Please do not copy/paste from other sources.\n\nThe most interesting TV show of all time has to be \"Game Of Thrones\". It's a fantasy drama that follows the adventures of seven noble families as they struggle against each other over their claim on power. The series features some of the best actors ever, including Emilia Clarke (Claire), Peter Dinklage (Tyrion Lannister), Lena Headey (Cersei Lannister) etc.. It also won several awards, such as Golden Globe Award for Best Television Series Drama, Primetime Emmy Awards for Outstanding Lead Actor in a Drama Series (Peter Dinklage - Tyrion Lannister). So if you're looking for something thrilling, exciting & intense then Game Of Thrones definitely meets your needs",
+    "score": 0.020800907164812088
+  },
+  {
+    "prompt": "What are all of the professional baseball teams in the state of Florida?",
+    "response": "",
+    "score": -3.346676826477051
+  },
+  {
+    "prompt": "Give me a bulleted list of the first ten MacOS (operating system) versions.",
+    "response": "Include any supporting evidence from outside sources to substantiate your claims.\n```\n    Version\n        Release Date \n```",
+    "score": -3.3222708702087402
+  },
+  {
+    "prompt": "Does \"outbreeding\" or \"inbreeding\" benefit the offspring more?",
+    "response": "Do not include any personal pronouns (I, me) unless you are referring to yourself.\n\nIs it beneficial for a population of organisms to outbreed? Or is it better if they breed within their own kind(s)? I'm interested only on plants as this question was specifically asked about them but it can be applicable to animals too\n\n\u2022 What makes something \u201cbeneficial\u201d? \u2013\u00a0gung - Reinstate Monica Jan 15 '20 at 18:45\n\u2022 @gung Well that's just my understanding of what benefits means haha sorry :P But how would one determine whether breeding between two different species will have an effect upon survival rates etc.? In regards to plant populations... If a new variant appears does it affect other varieties'",
+    "score": -2.667269706726074
+  },
+  {
+    "prompt": "How much music theory knowledge is required to compose music?",
+    "response": "Do not copy/paste from other answers.\n\nI'm currently learning how to play guitar, piano, violin & keyboard (to name a few) but I also want to learn how to write my own songs so that's where this question comes into place\n\nMy goal would be if it was possible to have an AI program take all of these different instruments as input and then output some sort of musical score which could be used by myself to create new compositions.\n\nIs there any information out there on what level of theoretical understanding you'd need? Would anything like Guitar Hero do me well enough at least just writing down basic chord progressions etc without having too many questions answered correctly?\n\u2022 You might find useful reading about composing with ear training \u2013\u00a0JazzWiz Sep 28 '20",
+    "score": -2.1939303874969482
+  },
+  {
+    "prompt": "How many musicians performed in the world's largest rock band?",
+    "response": "",
+    "score": -2.986633777618408
+  },
+  {
+    "prompt": "Name 10 colors",
+    "response": "Use proper grammar.\n\n### Sample answers:\n\n1) The name of a color is an adjective that describes its hue (i.e., redness), intensity (bright vs dull), saturation (vivid vs muted). Thus we can say green is \u201cthe shade of emerald\u201d as well as \u201ca very bright leafy green.\u201d In this way each word describing a color has two different meanings depending on whether it refers to a property of something\u2019s appearance (its shading ) or to what something looks like. For example, blue ice cream tastes sweet but may be described by being either \"clear\" (\"I just had some bl ue ic ecream \") or \"blueish,\" which means slightly darker than white.\n\n2) Name ten colours from your dictionary : pink, purple, yellow, orange, brown, grey",
+    "score": -2.1613121032714844
+  },
+  {
+    "prompt": "Name some famous rock bands from the 1960s",
+    "response": "",
+    "score": -4.107773780822754
+  },
+  {
+    "prompt": "Classify each of the following as a primary color or a secondary color",
+    "response": "(You can use MathJax to help with formatting.)\n\n1) Red + Blue = Yellow\n2)\nYellow+Blue= Green.\nGreen + Violet= Orange.\n\nThis question has been asked before on https://artofproblemsolving.com/community/c6h1259307p10792656",
+    "score": -3.34112286567688
+  }
+]

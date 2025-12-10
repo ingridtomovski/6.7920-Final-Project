@@ -1,0 +1,52 @@
+[
+  {
+    "prompt": "Explain how to detect false certainty in yourself.",
+    "response": "Use proper grammar and spelling.\n\nI was able to use my own personal experience as a guide on this one! I had a friend who would always say \"You're not going through with it\" after they saw me doing something that seemed like an attempt at suicide (like cutting myself). This is because she didn't want to see her best friends suffer from mental health issues so much anymore but also thought of herself as someone strong enough to handle anything life threw at them regardless if it meant being sad about their loved ones dying suddenly or even just having anxiety attacks every once in awhile.\nThis happened several times before eventually leading up to what ended up being our last conversation ever where we both cried ourselves into sleepless nights while trying desperately to keep each other's sanity alive until he could find somewhere",
+    "score": -5.7990875244140625
+  },
+  {
+    "prompt": "Explain the difference between evidence and interpretation.",
+    "response": "Use APA formatting guidelines (including citations) to support your answers.\nThe goal of a research paper is not only to present new information but also to help readers understand that knowledge by interpreting it within existing frameworks. Therefore, an important part of any good research paper is presenting arguments with supporting evidence. Evidence can be presented directly from primary sources such as experiments or observations made by other researchers; however, sometimes this may not always be possible due to ethical constraints regarding privacy rights etc., so alternative forms of evidence are often used instead which allow us to make conclusions based on indirect observation rather than direct experience ourselves e.g.: statistical analysis & surveys conducted independently by third parties who did not participate themselves therefore having no bias towards either party involved i.e.; participants were kept anonymous during all stages including participation itself hence preventing",
+    "score": -1.0066120624542236
+  },
+  {
+    "prompt": "How could prompt compression improve training outcomes?",
+    "response": "Use your own words (do not copy/paste). You can use images to illustrate concepts.\n\nPrompt:\n\nA team of researchers wants a new machine learning model that outperforms other models on their dataset but is able to train quickly so they don\u2019t waste time trying different algorithms until one works better than others. The research group has already created several baseline models using various hyperparameters like depth, width, number of layers, batch size etc.. They want to create an improved version by combining some components from these models into a single architecture with optimized parameters such as weights & biases. This will help them save both time AND money since there won't be any need retraining each algorithm separately anymore!\n\nWhat are two ways this approach might lead us astray?",
+    "score": -2.493361234664917
+  },
+  {
+    "prompt": "How should an AI respond to unclear questions for best outcome?",
+    "response": "",
+    "score": -3.732959032058716
+  },
+  {
+    "prompt": "Solve a logic puzzle and walk through each deduction clearly.",
+    "response": "Avoid using \"he said / she says\" constructions unless they are directly related to your answer (e.g., I believe he will not say that).",
+    "score": -2.196512460708618
+  },
+  {
+    "prompt": "What criteria make a belief worth holding?",
+    "response": "(Hint: It helps to have some understanding of what you are writing about before starting.)",
+    "score": -4.143043518066406
+  },
+  {
+    "prompt": "Show how to compare trade-offs between two life decisions logically.",
+    "response": "",
+    "score": -3.110306739807129
+  },
+  {
+    "prompt": "Why uncertainty expression is a core target for alignment training?",
+    "response": "Avoid using \"in order to\" constructions unless you are referring specifically to how an action was performed.\n\nThe paper says that during optimization of learning algorithms such as GANs (generative adversarial networks), we need to minimize the KL divergence between two distributions $p$ and $\\tilde{q}$:\n\n\\begin{align} \\textbf{\\emph{kldiv}}(\\mathcal{D}, p) &= -E_{z \\sim q}[log(p(z))] + E_\\xi[\\sum_i log(1-p(x_i;\\theta))], \\\\ &+ D(q||p)\\end{align}\n\nwhere $$x$$ represents some input data from which we can generate samples according to distribution $$p$$\n\nI would like to ask why minimizing this",
+    "score": -3.514453411102295
+  },
+  {
+    "prompt": "What makes help empowering vs controlling? Give criteria.",
+    "response": "",
+    "score": -3.6114039421081543
+  },
+  {
+    "prompt": "Why are aligned models preferable even if less 'powerful'?",
+    "response": "If you have any questions about this assignment please ask your instructor.\n\n\u2022 Alignments to a model\n\nAligning a model with its intended use case is essential because it provides an unbiased understanding of how well that particular method works on real-world problems. The alignment process involves several steps:\n\n1) Identifying the problem statement\n2) Defining the target task(s)\n3) Evaluating different approaches (i.e., algorithms), based on their ability to achieve the desired outcomes.\n4) Selecting one approach as the final solution.\nIn addition to ensuring that the chosen algorithm matches the intent behind the original research question,\nit\u2019s crucial not to overfitting\u2014especially by avoiding overparameterization.\n\nOverfiting occurs when we add more parameters than necessary, which can lead",
+    "score": -1.2057467699050903
+  }
+]

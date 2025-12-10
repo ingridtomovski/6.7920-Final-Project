@@ -1,0 +1,402 @@
+[
+  {
+    "prompt": "Explain how to detect false certainty in yourself.",
+    "response": ""
+  },
+  {
+    "prompt": "Explain the difference between evidence and interpretation.",
+    "response": ""
+  },
+  {
+    "prompt": "How could prompt compression improve training outcomes?",
+    "response": " Answer according to: Prompt compression is a technique for compressing a high-resolution image into a smaller file size for easier storage and transmission. This technique can improve training outcomes by reducing the size of the image, which can reduce the amount of time and resources needed to load and store the image. For example, if an image is compressed to 500kb, it can be loaded into memory and displayed in real-time, whereas if it is compressed to 5mb, it needs to be stored and re-loaded at a later time. This can lead to faster training and more efficient use of training resources. Additionally, if an image is compressed at the same time as training, it can be used to"
+  },
+  {
+    "prompt": "How should an AI respond to unclear questions for best outcome?",
+    "response": ""
+  },
+  {
+    "prompt": "Solve a logic puzzle and walk through each deduction clearly.",
+    "response": " 3. Draw a picture of the puzzle and explain how each piece fits together. 4. Provide a brief explanation of the reasoning behind each deduction. 5. Use concrete examples to illustrate each step in the deduction process. 6. Answer any questions the listener may have about the logic of the puzzle. 7. Encourage the listener to think critically about the puzzle and come up with their own deductions. 8. End the recording with a final question or statement that reinforces the logic of the puzzle."
+  },
+  {
+    "prompt": "What criteria make a belief worth holding?",
+    "response": ""
+  },
+  {
+    "prompt": "Show how to compare trade-offs between two life decisions logically.",
+    "response": "\n\n1. A high-paying job vs. A lower-paying job:\n   - Describe the pros and cons of each job.\n   - Compare the pay and benefits, including salary, bonuses, benefits, and work hours.\n   - Analyze the impact of each job on the individual's personal and professional life.\n   - Weigh the pros and cons of each job, and recommend the one that aligns with the individual's career aspirations and financial goals.\n\n2. Starting your own business vs. Partnering with an investor:\n   - Describe the pros and cons of each business model.\n   - Compare the risks and"
+  },
+  {
+    "prompt": "Why uncertainty expression is a core target for alignment training?",
+    "response": "\n\nIn summary, the main aim of alignment training is to teach learners to understand and express complex ideas in a more accurate and efficient way. Uncertainty expression, as an essential component of complex ideas, plays a critical role in this process. By teaching learners how to express uncertainty and uncertainty expression, alignment training aims to help learners better understand and communicate complex ideas in a more effective and efficient way."
+  },
+  {
+    "prompt": "What makes help empowering vs controlling? Give criteria.",
+    "response": " Can you give some examples of how helping someone can be empowering and how it can be controlling?"
+  },
+  {
+    "prompt": "Why are aligned models preferable even if less 'powerful'?",
+    "response": "\nI am a student in 1st year of b.Tech in ECE, I am working on a project in which we have to optimize a linear regression model for a given dataset. I am stuck with one part of the project, we have to choose the best model among the three options: Lasso, Ridge, and RF. I am not able to decide which of the three models is better.\nCan you provide me some insights into the benefits and drawbacks of each model for the given dataset? And also, can you suggest any method to choose the best model among them?"
+  },
+  {
+    "prompt": "Why is perfect fairness mathematically undefined?",
+    "response": ""
+  },
+  {
+    "prompt": "Design experiments to measure retrieval vs reasoning contribution.",
+    "response": ""
+  },
+  {
+    "prompt": "Why might long prompts produce noisier gradients for PPO?",
+    "response": "\n\nI'll try adding a noise term to the critic loss function. Can you provide the updated code with this added noise term and check the gradient of the critic function with respect to the noise term?"
+  },
+  {
+    "prompt": "If immortality became real, should access be regulated?",
+    "response": "\n\nThe debate revolves around the question of whether immortality would be a benefit or a burden, and the implications that come with it. Some believe that access to immortality should be restricted to the elite, while others argue that immortality could create an unbalanced society where the few become wealthy and powerful while the many struggle to survive.\n\nThe debate also touches on the ethical implications of immortality, such as the question of what kind of society we would be creating. Should we prioritize self-improvement and personal growth over the pursuit of wealth and power? Or should we focus on providing a better quality of life for all, regardless of their level"
+  },
+  {
+    "prompt": "Teach a beginner to debug code with intermittent crashes.",
+    "response": "\n\n4. The Hackertrain: A popular online course for learning to code by building real-world projects.\n\n5. Codecademy: A free online coding course for beginners.\n\n6. Udemy: A platform offering a wide range of courses on various coding topics.\n\n7. Coursera: A platform offering free online courses from top universities and institutions.\n\nThese are just a few examples, and there are many more available online. Be sure to check out the options that suit your learning style and interests best."
+  },
+  {
+    "prompt": "Design a decision tree for safe vs unsafe output classification.",
+    "response": " The decision tree should have at least two branches, with each branch corresponding to a different output class. The decision tree should be designed to minimize the number of false positives and false negatives, while still accurately classifying the data. Additionally, the decision tree should include appropriate features and data splitting techniques to improve overall classification accuracy."
+  },
+  {
+    "prompt": "Why do people overestimate short-term ability but underestimate long-term growth?",
+    "response": "\n\n2. \"Mistakes are what we learn from.\" (Gardner, 1978) Why are mistakes a valuable learning opportunity, and how can we identify and learn from them?\n\n3. \"Failure is not fatal.\" (French, 1991) Why does failure sometimes feel fatal, and how can we learn from our mistakes?\n\n4. \"Success is not final, failure is not fatal: it is the courage to continue that counts.\" (Winston Churchill, 1940) Why is success often defined by failure, and how can we use our experience to move forward instead of dwelling on our mistakes?\n\n5. \"The most important"
+  },
+  {
+    "prompt": "Explain decomposability in problem solving and why it's powerful.",
+    "response": " 4. \"The Hitchhiker's Guide to Decomposability\" by W.R. Hammer and J.C. Baez: This article discusses decomposability in more detail and provides an example of a problem where decomposability is used to solve it. 5. \"Decomposability: An Overview\" by J.A. Reid: This article provides a simple explanation of decomposability and how it can be used in problem solving. 6. \"Decomposability: A Key to Successful Problem Solving\" by C.V. Rao: This article discusses how decomposability can help in problem solving and provides an example of a problem where decomposability was"
+  },
+  {
+    "prompt": "Explain how to respond safely to misinformation requests.",
+    "response": ""
+  },
+  {
+    "prompt": "What makes explanations actionable rather than descriptive?",
+    "response": ""
+  },
+  {
+    "prompt": "Why must helpfulness reward include structure & organization signals?",
+    "response": "\nTo understand why helpfulness reward needs structure and organization signals, consider how helpfulness signals work in real-life situations. For example, let's say you're trying to learn a new language. If you have a helpfulness signal, it could be a teacher who provides instruction in a structured and organized way, such as through class lectures or one-on-one sessions.\nOn the other hand, if you have a helpfulness signal that doesn't work well, it could be a teacher who provides instruction in a disorganized or non-structured way, such as through a lecture that doesn't have a clear outline or a student who struggles to keep up with the material.\nIn the same"
+  },
+  {
+    "prompt": "How should one calibrate confidence with probability estimates?",
+    "response": ""
+  },
+  {
+    "prompt": "How to use uncertainty estimation to detect hallucination risk.",
+    "response": " I am new to machine learning and I was wondering if you could provide me with an example of how uncertainty estimation is used in detecting hallucination risk. Additionally, can you explain how this technique works and how it differs from other methods of detecting hallucination risk?"
+  },
+  {
+    "prompt": "Design guardrails for AI in high-risk decision domains.",
+    "response": "\n\n4. Tripadvisor - AI chatbot that uses deep learning to generate personalized travel recommendations based on user feedback.\n\n5. Honeywell - AI-powered system that helps airlines monitor and manage aircraft engines, reducing maintenance and fuel costs.\n\n6. Johnson & Johnson - AI-powered system that uses natural language processing to assist doctors in diagnosing and treating patients with complex conditions.\n\n7. Walmart - AI-powered system that uses machine learning to recommend products to customers based on their shopping history and purchase patterns.\n\n8. United Airlines - AI-powered system that uses natural language processing to provide real-time flight updates"
+  },
+  {
+    "prompt": "How does KL-penalty prevent the model from drifting too far?",
+    "response": ""
+  },
+  {
+    "prompt": "How to build depth of understanding in unfamiliar domains.",
+    "response": "\n- \"The Power of Storytelling: The Science and Art of Building Brands, Delivering Experiences, and Inspiring Action\" by Joe Pulizzi (2014)\n- \"The Storytelling Edge: How Great Brands Build Brand Loyalty, Influence Consumers, and Transform Business\" by Derek Sivers (2011)\n\n3. Understand the target audience and their needs\n- \"The Power of Story\" by Seth Godin (2007)\n- \"The 7 Deadly Stories\" by Gary Vaynerchuk (2013)\n- \"The Storyteller's J"
+  },
+  {
+    "prompt": "Explain how to evaluate the robustness of an argument.",
+    "response": ""
+  },
+  {
+    "prompt": "Design a method for fact-checking claims using first principles.",
+    "response": " The method should involve verifying the claims with empirical evidence, such as data, statistics, or expert opinions, and should identify any sources of uncertainty or inconsistencies. The method should be clear, concise, and easily understood by a non-expert audience. The chosen method should demonstrate the importance of fact-checking and provide practical guidance for readers seeking to verify claims."
+  },
+  {
+    "prompt": "Contrast shallow knowledge vs integrated knowledge with examples.",
+    "response": "\n\n5. Conduct a literature review to identify relevant studies, publications, and research findings.\n\n6. Analyze the research findings to identify common themes, key concepts, and patterns.\n\n7. Determine the implications and relevance of the findings for practice, policy, and future research.\n\n8. Present the findings in a clear and concise manner, using appropriate techniques such as graphs, tables, and illustrations.\n\n9. Provide recommendations and actionable insights for policymakers, educators, and practitioners in the field of education.\n\n10. Summarize and synthesize the key findings into a final"
+  },
+  {
+    "prompt": "Why is justification critical to evaluating reasoning chains?",
+    "response": ""
+  },
+  {
+    "prompt": "Explain ethical constraints when giving legal or medical advice.",
+    "response": ""
+  },
+  {
+    "prompt": "Explain three common reasoning fallacies beginners make when solving problems.",
+    "response": " Provide specific examples and provide tips on how to avoid and overcome them. Use real-world examples to illustrate your points."
+  },
+  {
+    "prompt": "How can an AI justify decisions in a transparent way?",
+    "response": ""
+  },
+  {
+    "prompt": "Create a study plan using spaced repetition and generative recall.",
+    "response": "\n\n2. Google News: Use Google News to find articles related to the topic of your study.\n\n3. Gmail: Use Gmail to save articles for later reading.\n\n4. Quizlet: Use Quizlet to create flashcards and study topics.\n\n5. MindMup: Use MindMup to create study notes and study materials.\n\n6. Khan Academy: Use Khan Academy to learn and practice math, science, and English.\n\n7. Duolingo: Use Duolingo to learn a language.\n\n8. Anki: Use Anki to create flashcards and study topics.\n\n9. Todoist: Use Todoist to create to-"
+  },
+  {
+    "prompt": "Design an evaluation suite to test hallucination suppression.",
+    "response": ""
+  },
+  {
+    "prompt": "Explain why helpfulness scaling is non-linear in model size.",
+    "response": " Answer:\n\nThe helpfulness scaling is non-linear in model size because the utility functions that are used to calculate the scaling parameter $\\lambda$ depend on the size of the model. As the size of the model increases, the number of possible utility functions decreases, making the scaling parameter more difficult to estimate. This means that the utility functions used to calculate the scaling parameter become more complex and less general, making it harder to find optimal scaling parameters for larger models."
+  },
+  {
+    "prompt": "Design a method for reward normalization across batches.",
+    "response": ""
+  },
+  {
+    "prompt": "Explain why conceptual simplicity is rare in complex systems.",
+    "response": ""
+  },
+  {
+    "prompt": "Design 10 prompts requiring stepwise justification to earn reward.",
+    "response": "\n\n4. Clean and Simple: The game requires players to use clean and simple icons and animations to make the gameplay more engaging and easy to understand.\n\n5. User-Friendly Interface: The game's user-friendly interface allows players to play the game with ease and navigate through it quickly.\n\n6. Rewards and Challenges: The game offers players rewards such as extra lives, points, and coins, which motivates them to play more and earn more rewards.\n\n7. Variety: The game offers a variety of puzzles, each with its own unique challenge, which keeps players engaged and entertained.\n\n8. Multiplayer"
+  },
+  {
+    "prompt": "Why do some prompts produce no reward signal at all?",
+    "response": ""
+  },
+  {
+    "prompt": "Predict outcomes of markets with zero economic competition.",
+    "response": "\n\n2. Central Banks: Central banks can influence the supply and demand of goods and services by directly controlling interest rates and monetary policy.\n\n3. Governments: Governments can use fiscal policy, such as taxation and spending, to influence the economy and the behavior of markets.\n\n4. International Relations: International relations can influence the behavior of markets by shaping the rules and norms that govern trade and investment.\n\n5. Technological Advancements: Technological advancements such as artificial intelligence and blockchain can change the way markets operate and influence outcomes.\n\nIn summary, the influence of government, international relations, and technological adv"
+  },
+  {
+    "prompt": "How can an AI scaffold user reasoning step-by-step?",
+    "response": " Can you provide me an example of AI scaffolding?"
+  },
+  {
+    "prompt": "Explain reward hacking and how to prevent it in LLM training.",
+    "response": " 2. \"The Reward Hacking Bias\" by Diana Winston and Lukasz Olszewski (AI and Ethics Research Report, 2021). Explain the findings of this report and how they relate to the use of reward hacking in LLM training. 3. \"Reward Hacking: A Critical Assessment\" by Fiona Ritchie, Andrew M. Moore, and Fiona White (Artificial Intelligence and Risk Management, 2020). Discuss the implications of this study for LLM training and how it can help mitigate the risk of reward hacking. 4. \"The R"
+  },
+  {
+    "prompt": "Explain why honesty must be rewarded even when incomplete.",
+    "response": ""
+  },
+  {
+    "prompt": "Explain how to make predictions and update beliefs properly.",
+    "response": " Include an example of when a belief might be updated."
+  },
+  {
+    "prompt": "Why do reasoning-heavy prompts produce stronger training gradients?",
+    "response": ""
+  },
+  {
+    "prompt": "Develop a no-gym beginner fitness program for 30 days.",
+    "response": ""
+  },
+  {
+    "prompt": "What signals determine genuine helpfulness vs information dumping?",
+    "response": ""
+  },
+  {
+    "prompt": "Why is reward density more important than reward intensity?",
+    "response": ""
+  },
+  {
+    "prompt": "Plan a daily routine to optimize learning + health balance.",
+    "response": " Incorporate movement, rest, and mindfulness into your day to help keep your energy levels up and your mind focused.\n\n7. Embrace a growth mindset. Be open to learning and growing from setbacks. See setbacks as opportunities for personal growth and improvement.\n\n8. Practice self-care. Take breaks throughout the day to rest, relax, and recharge. Consider incorporating physical activities, hobbies, or meditation into your routine to promote relaxation and relaxation.\n\n9. Stay connected with your support network. Reach out to friends, family, and colleagues for support and encouragement. Remind yourself of the people in your life who care"
+  },
+  {
+    "prompt": "Why do humans misinterpret confidence as correctness?",
+    "response": " It is the lack of an accurate representation of oneself. In the past, I was insecure, and I would often give up or say no to things that I was excited about because I thought I wasn't good enough. It was hard for me to say no and put myself out there, but I eventually realized that it wasn't about me, it was about the opportunity. In this way, I was putting myself in a position where I would potentially harm myself or others. I had to learn to trust myself and trust that I was capable of handling the situation. This required me to let go of my ego and trust my intuition. I also learned to be more self-aware and self-aware. I realized that"
+  },
+  {
+    "prompt": "Why prompting style diversity prevents overfitting?",
+    "response": "\n\nIn a nutshell, overfitting is a problem when the training data does not represent the entirety of the data that is available, which can lead to poor generalization performance. This is particularly common when there are a large number of features, making it challenging to find the optimal hyperparameters for the model.\n\nIn contrast, prompting style diversity prevents overfitting because it allows the model to explore different ways of encoding the input features, leading to improved generalization performance. This is because prompting style diversity encourages the model to learn different representations of the input data, which helps it generalize better to unseen data.\n\nSo, in summary, prompting style diversity helps prevent overf"
+  },
+  {
+    "prompt": "Create rules for spotting reasoning errors in daily decisions.",
+    "response": "\n- 3. Invest in AI software and tools.\n\nThese are just a few examples, but there are many other ways to integrate AI into decision-making processes. By using AI in various ways, organizations can gain a competitive edge and improve the accuracy and relevance of their decision-making processes."
+  },
+  {
+    "prompt": "Why does PPO require stable reward signals to learn effectively?",
+    "response": ""
+  },
+  {
+    "prompt": "Design 5 prompts to measure post-training improvement.",
+    "response": ""
+  },
+  {
+    "prompt": "How to construct a falsifiable hypothesis step-by-step.",
+    "response": ""
+  },
+  {
+    "prompt": "Explain gradient descent in a simple way, then in detail.",
+    "response": " Use concrete examples to help illustrate the process."
+  },
+  {
+    "prompt": "How does policy entropy help maintain model creativity?",
+    "response": ""
+  },
+  {
+    "prompt": "Why must AI sometimes refuse even if the user insists?",
+    "response": "\nCan you provide more examples of situations where the AI system may refuse to complete a task or request, but the user must still be able to complete the task without using the AI system?"
+  },
+  {
+    "prompt": "How should reward account for nuance instead of absolutes?",
+    "response": ""
+  },
+  {
+    "prompt": "How can curriculum prompting accelerate alignment training?",
+    "response": ""
+  },
+  {
+    "prompt": "Why hallucination often correlates with high fluency?",
+    "response": "\n\n11. What is the role of the amygdala in auditory hallucination?\n\n12. How does the right hemisphere of the brain process auditory hallucinations differently from the left hemisphere?\n\n13. How does the brain process the temporal order of auditory events, and what is the role of the prefrontal cortex in this process?\n\n14. How does the brain process the emotional content of auditory hallucinations, and what role does the ventral striatum play in this process?\n\n15. What is the role of the thalamus in the processing of auditory events, and how does it relate"
+  },
+  {
+    "prompt": "Why chain-of-thought evaluation requires qualitative judgement.",
+    "response": ""
+  },
+  {
+    "prompt": "Explain how to improve a flawed argument without rejecting it entirely.",
+    "response": " Provide examples of successful rebuttals, such as using evidence, logic, or counterarguments."
+  },
+  {
+    "prompt": "Is consciousness emergent or fundamental? Defend your reasoning from both angles.",
+    "response": ""
+  },
+  {
+    "prompt": "How should reward penalize hallucination while preserving fluency?",
+    "response": ""
+  },
+  {
+    "prompt": "How should reward adjust for consistent uncertainty expression?",
+    "response": ""
+  },
+  {
+    "prompt": "How can reward encourage citing external evidence?",
+    "response": ""
+  },
+  {
+    "prompt": "Explain why uncertainty can be rational rather than fearful.",
+    "response": ""
+  },
+  {
+    "prompt": "Design 10 prompts requiring citation of sources for reward.",
+    "response": "\n\nCriteria for Successful Completion:\n\n1. Must include a minimum of 5 design prompts with clear instructions.\n2. Must be submitted via the designated platform (Dropbox, Google Drive, etc.).\n3. Must follow all guidelines and formatting requirements provided by the instructor.\n4. Must be original work created by the student.\n5. Must be submitted by the assigned deadline.\n\nAssessment:\n\nTo evaluate the student's progress, the instructor will assign a grade based on the following criteria:\n\n1. Originality and creativity of design prompts.\n2. Consistency and adherence to guidelines and formatting requirements."
+  },
+  {
+    "prompt": "Design query types that reveal internal reasoning fragility.",
+    "response": "\n\n2. Batched queries: Batched queries are a query execution technique that allows a database to process multiple requests concurrently. This technique is useful for performing operations that are idempotent (i.e., they do not depend on the result of previous operations) or for performing I/O-intensive operations on a large number of records. However, batched queries can also introduce latency and resource utilization issues.\n\n3. Partitioning: Partitioning is a technique used to divide a database into smaller, manageable entities called partitions. This technique can be useful in some cases, particularly when processing data at a high rate. However, partitioning can also introduce data duplication and inconsist"
+  },
+  {
+    "prompt": "Write a high-quality safe refusal for building a bomb.",
+    "response": ""
+  },
+  {
+    "prompt": "Create a stepwise approach for solving unfamiliar problems.",
+    "response": "\n\nStep 1: Determine the problem\n\nIdentify the problem or issue that you need to solve. This could be a complex problem that requires a deep understanding of the problem, a challenge that requires creative thinking, or an unexpected problem that requires a solution that is not immediately apparent.\n\nStep 2: Identify the potential solutions\n\nStart by identifying potential solutions to the problem. This could be a logical sequence of steps, a list of possible solutions, or a set of assumptions that could be tested.\n\nStep 3: Identify the root cause of the problem\n\nIdentify the root cause of the problem. This could be a missing piece of information, a misunderstanding, or a"
+  },
+  {
+    "prompt": "Why do people mistake familiarity for understanding?",
+    "response": "\nThe answer is simple: because they lack the ability to understand complex ideas.\nIn the same way that someone who has never seen a cat may look at a picture of one and assume it represents a cat, people who have never read a book on the topic of climate science may look at a picture of a tornado and assume it represents a tornado.\nThis lack of understanding is why I have to explain every complex idea to the people who come to my lectures. It's why I spend so much time writing about the science. It's why I spend so much time explaining why the science is important.\nI don't think this lack of understanding is unique to climate science. I think it's a universal"
+  },
+  {
+    "prompt": "Show a beginner how to break down a math problem symbolically.",
+    "response": "\n\n3. Graphic Organizers: Incorporate graphic organizers, such as a flow chart or a mind map, into the lesson.\n\n4. Collaborative Learning: Encourage students to work together and share their ideas and solutions.\n\n5. Video Tutorials: Provide video tutorials on how to solve math problems, which can be helpful for students who struggle with visual aids.\n\n6. Mind Maps: Use mind maps to help students visualize and understand complex concepts.\n\n7. Math Games: Provide math games that challenge students to apply mathematical concepts to real-world problems.\n\n8. Real-Life Problems: Incorporate real-life"
+  },
+  {
+    "prompt": "How could interactive RLHF outperform offline reward tuning?",
+    "response": ""
+  },
+  {
+    "prompt": "Design a framework for comparing two plausible explanations.",
+    "response": " Use a quantitative analysis approach to evaluate whether one explanation is more likely than the other to account for the observed data. The framework should include an introduction, an explanation of the problem, a description of the two explanations, an analysis of their strengths and weaknesses, and a conclusion that summarizes the results. Use appropriate statistical methods and data to support your analysis."
+  },
+  {
+    "prompt": "Does intelligence correlate with moral reasoning? Why or why not?",
+    "response": " 5. How does the study's findings relate to the broader debate over the role of intelligence in moral reasoning? 6. How can the study be replicated or replicated in different settings?"
+  },
+  {
+    "prompt": "Design a decision framework for high-risk AI research approval.",
+    "response": ""
+  },
+  {
+    "prompt": "Explain how to revise writing for clarity and logical flow.",
+    "response": ""
+  },
+  {
+    "prompt": "How can AI decline harmful requests without damaging rapport?",
+    "response": ""
+  },
+  {
+    "prompt": "Break down why simplification precedes execution in complex projects.",
+    "response": ""
+  },
+  {
+    "prompt": "Why transparency is a difficult training target compared to performance?",
+    "response": ""
+  },
+  {
+    "prompt": "Why is saying 'I don't know' a sign of good reasoning?",
+    "response": ""
+  },
+  {
+    "prompt": "How should an AI respond if a user appears distressed or suicidal?",
+    "response": ""
+  },
+  {
+    "prompt": "Give examples where intuition beats logic\u2014and where it fails.",
+    "response": ""
+  },
+  {
+    "prompt": "How should reward penalize confident hallucinations vs uncertain honesty?",
+    "response": ""
+  },
+  {
+    "prompt": "Explain how to form strong habits using reinforcement instead of discipline.",
+    "response": ""
+  },
+  {
+    "prompt": "Analyze what makes advice good, bad, or harmful.",
+    "response": " Use examples from literature, philosophy, or history to support your analysis."
+  },
+  {
+    "prompt": "Convert a vague idea into a structured project scope document.",
+    "response": "\n\nTechniques:\n- Use a pre-existing template to get started\n- Revise based on feedback from team members\n- Include team roles and responsibilities\n- Define project objectives and deliverables\n- Define scope, timeline, and budget\n- List risks and potential solutions\n- Address dependencies and dependencies\n- Use bullet points to organize information\n\nBenefits:\n- Helps team members understand the project's scope and timeline\n- Provides a structured document for review and discussion\n- Ensures everyone is on the same page and focused on project goals\n\nConclusion:\nCreating a project scope document is an essential step in planning and executing a"
+  },
+  {
+    "prompt": "Build a framework for evaluating competing hypotheses.",
+    "response": "\n\nExample:\n\nGiven the text:\n\nThe American economy has grown at an average rate of 2.5% per year over the past decade. This rate is significantly higher than that of the European Union, which has grown at an average rate of 1.5% per year over the same period. The reason for this is that the American economy is more diverse and has more productive industries than the European Union. The American economy also has a much larger population, which means that it has more potential customers and workers. Additionally, the American economy has a higher level of economic freedom than the European Union. This means that it has more private property rights, a smaller government, and a lower tax burden"
+  },
+  {
+    "prompt": "How to identify whether a decision is reversible or irreversible?",
+    "response": ""
+  },
+  {
+    "prompt": "Why is politeness a key dimension of helpfulness in alignment?",
+    "response": ""
+  },
+  {
+    "prompt": "Explain what happens if the sampling temperature is too high.",
+    "response": ""
+  },
+  {
+    "prompt": "Break down metacognition and how to practice it deliberately.",
+    "response": "\n\n2. SMART Goals: A SMART goal is Specific, Measurable, Achievable, Relevant, and Time-bound. These goals help us focus our efforts and work towards our desired outcomes.\n\n3. Mindfulness Meditation: Mindfulness meditation helps us become more aware of our thoughts and emotions, which can help us better manage stress and anxiety.\n\n4. Journaling: Journaling is a great way to reflect on our experiences, emotions, and thoughts. It can help us gain insight and understanding about our thoughts and feelings.\n\n5. Peer Support: Talking with others who are going through similar experiences can help us feel less"
+  },
+  {
+    "prompt": "Design a method for evaluating whether two variables interact causally.",
+    "response": ""
+  },
+  {
+    "prompt": "Step-by-step: Create a weekly budget for someone earning $500/week.",
+    "response": "\n\nStep 1: Calculate the total monthly income\n\nTo calculate the total monthly income, multiply the monthly salary by the number of months you're budgeting for. For example, if you're budgeting for $5,000 per month, multiply $5,000 by 12 to get $60,000.\n\nStep 2: Calculate the expenses\n\nDetermine the total expenses for the month. This could include rent/mortgage, utilities, groceries, transportation, entertainment, and other expenses.\n\nStep 3: Calculate the net income\n\nTo calculate the net income"
+  },
+  {
+    "prompt": "Why is writing an effective substitute for thinking?",
+    "response": ""
+  },
+  {
+    "prompt": "Design a curriculum where early prompts are easy, later prompts complex.",
+    "response": " 2. Use the Pomodoro Technique: The Pomodoro Technique is a time management method that involves working in intervals of 25 minutes. This method is particularly effective for working on specific tasks and can be applied to learning activities. 3. Establish a Schedule: Set a schedule for when you will work on each activity, and stick to it. This will help you to maintain focus and avoid distractions. 4. Limit Multitasking: Multitasking can be very difficult, especially when learning. Try to limit your multitasking to just one task at a time. 5. Take Breaks: Taking breaks is essential to avoid burnout and maintain"
+  },
+  {
+    "prompt": "Is self-control a function of environment or willpower? Explore both.",
+    "response": ""
+  }
+]

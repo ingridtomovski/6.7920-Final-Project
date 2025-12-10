@@ -8,7 +8,7 @@ import torch
 
 PROJECT_DIR = Path.home() / "6.7920-Final-Project"
 PROMPT_DIR = PROJECT_DIR / "data" / "prompts"
-OUTPUT_FILE = PROJECT_DIR / "data" / "baseline_responses.json"
+OUTPUT_FILE = PROJECT_DIR / "data" / "responses" / "baseline_responses.json"
 
 MODEL_NAME = "distilgpt2"
 MAX_NEW_TOKENS = 150
@@ -66,11 +66,9 @@ for i, prompt in enumerate(test_prompts):
         "response": response
     })
 
-# ---------------------------------------
 # Save to JSON
-# ---------------------------------------
 
-os.makedirs(PROJECT_DIR / "data" / "responses", exist_ok=True)
+os.makedirs(PROJECT_DIR / "data/responses", exist_ok=True)
 
 with open(OUTPUT_FILE, "w") as f:
     json.dump(baseline_outputs, f, indent=2)
